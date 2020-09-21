@@ -4,6 +4,7 @@ speak_to_grandma = gets.chomp
   if speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   else "HUH? SPEAK UP, SONNY!"
+  end
 
 
 # Whatever you say to grandma, she should respond with
